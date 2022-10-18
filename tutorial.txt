@@ -1,0 +1,9 @@
+User dan Passwor yang digunakan untuk mengakses aplikasi ini adalah :
+
+1. user : divpembelian   — pass : 123
+
+2. user : divpenjualan — pass : 123
+
+3. user : managerial — pass : 123
+
+Untuk mempelajarinya silahkan download contoh aplikasi pengelolaan barang !

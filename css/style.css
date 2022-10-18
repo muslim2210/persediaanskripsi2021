@@ -1,0 +1,66 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	color: #666;
+	font-family: Helevetica,Arial,sans-serif;
+	font-size: 13px;
+	height:auto;
+	width:auto;
+	line-height:1.5em;
+	
+	background-image:url(images/czc.jpg);
+	background-repeat: repeat-x;
+	background-attachment:fixed;
+background-repeat:repeat;
+background-position:center center;
+}
+
+h1 {padding: 5px; margin: 0;background-color: #00CCFF; font-weight: bold; letter-spacing: -1px; color: #ffffff;}
+h2 {margin: 5px; margin-left: 0;font-weight: normal; letter-spacing: -1px; color: #2f4860;}
+
+p {text-align: justify;}
+
+p.tengah {text-align: center;}
+
+.td_konten {
+background-color: #ffffff; 
+}
+
+.td_bullet{
+
+}
+
+.td_menu{
+padding-left : 10px;
+padding-right : 10px;
+border: solid 1px #c0c0b0; 
+background-color: #00CCFF; 
+color: black;
+width: 250px;
+height:350px;
+}
+
+.td_konten_atas{
+border: solid 1px #c0c0b0; 
+background-color: #ffffff; 
+color: #2f4860;
+}
+
+.judul {background-color: #0099FF; margin: 0; padding: 0; padding-left: 0px; color: #2f4860;border-bottom: solid 1px #2f4860;}
+.judul_menu {background-color: #c0c0b0; margin: 0; padding: 0; padding-left: 0px; color: #2f4860;border-bottom: solid 1px #2f4860;}
+.footer {border: solid 1px #2f4860; text-align: right; background-color: #000000; color: #ffffff; width:auto; height:auto}
+
+ul {width: 92%; margin: 0; padding-left: 25px;}
+li {margin-top: 0px; margin-bottom: 1px;}
+
+a{
+text-decoration:none;
+}
+
+
+.table {border: 2px solid #2f4860;border-collapse:collapse;width:98%}
+.table td {background: #fff 0 -1600px;font-size:12px;padding:1px;border: 1px solid #fff;height:25px;}
+.table th {text-align:left;border: 1px solid #fff}
+.table thead th {color:#fff;font-size:11px;text-align:center;background: #2f4860 0 -1300px;padding: 10px 6px}
+.table tbody th {color:#fff;font-size:11px;text-align:center;background: #2f4860 0 -1400px;padding: 6px}
+

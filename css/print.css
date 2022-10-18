@@ -1,0 +1,49 @@
+/* CSS UNTUK TAMPILAN CETAK */
+body {
+margin: 10px 30px 10px 30px ; 
+padding: 0; 
+background-color: #FFFFFF; 
+font: normal 83% "arial", sans-serif; 
+}
+
+h2 {
+margin: 5px; 
+margin-left: 0;
+font-weight: normal; 
+letter-spacing: -1px; 
+color: #2f4860;
+}
+
+.table {
+border: 2px solid #2f4860;
+border-collapse:collapse;
+width:100%;
+}
+
+.table td {
+background: #fff 0 -1600px;
+font-size:12px
+;padding:1px;
+border: 1px solid #fff;
+height:25px;}
+
+.table th {
+text-align:left;
+border: 1px solid #fff
+}
+
+.table thead th {
+color:#fff;
+font-size:11px;
+text-align:center;
+background: #2f4860 0 -1300px;
+padding: 10px 6px
+}
+
+.table tbody th {
+color:#fff;
+font-size:11px;
+text-align:center;
+background: #2f4860 0 -1400px;
+padding: 6px
+}
